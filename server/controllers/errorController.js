@@ -1,6 +1,8 @@
 const AppError = require("../utils/appError");
 
 const sendErrorDev = (err, req, res) => {
+    console.log("error", err);
+    
     if(req.originalUrl.startsWith('/api')) {
         return res.status(err.statusCode).json({
             status: err.status,
@@ -10,7 +12,6 @@ const sendErrorDev = (err, req, res) => {
         });
     }
 
-    console.log("error", err);
 
     return res.status(err.statusCode).render("error", {
         title: "Something went wrong!",

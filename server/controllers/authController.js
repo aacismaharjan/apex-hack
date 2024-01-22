@@ -1,7 +1,7 @@
 const crypto = require("crypto");
 const { promisify } = require("util");
 const jwt = require("jsonwebtoken");
-const User = require("../models/userModel");
+const User = require("../model/userModel");
 const catchAsync = require("../utils/catchAsync");
 const AppError = require("../utils/appError");
 const Email = require("../utils/email");
@@ -92,7 +92,7 @@ exports.logout = async (req, res, next) => {
     next();
 }
 
-exports.protect = catchAsync(async(req, res, next) => {
+exports.protect = catchAsync(async (req, res, next) => {
     // 1) Getting token and check if it's there
     let token;
 
@@ -130,7 +130,7 @@ exports.protect = catchAsync(async(req, res, next) => {
 
     // Grand access to protected route
     req.user = currentUser;
-    req.locals.user = currentUser;
+    res.locals.user = currentUser;
     next();
 });
 
