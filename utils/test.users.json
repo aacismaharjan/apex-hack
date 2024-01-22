@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "65a8df07bb72a9489559ec71"
+  },
+  "firstName": "Aacis",
+  "lastName": "Maharjan",
+  "email": "aashishmaharjan2001@gmail.com",
+  "password": "test@12345",
+  "passwordConfirm": "test@12345",
+  "profilePicture": "aashish.jpg",
+  "bio": "prep for hackathon",
+  "interests": [
+    "Programming",
+    "System Analysis"
+  ],
+  "college": "apex",
+  "major": "BCIS",
+  "graduationYear": 2026,
+  "role": "Student",
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "instagram": "https://www.instagram.com/johndoe",
+    "linkedin": "https://www.linkedin.com/in/johndoe"
+  },
+  "createdAt": {
+    "$date": "2024-01-18T08:19:19.610Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T08:27:54.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8dfa41c4a2ac38b09f751"
+  },
+  "firstName": "Roshan",
+  "lastName": "Neupane",
+  "email": "roshanneupane@gmail.com",
+  "password": "test@12345",
+  "passwordConfirm": "test@12345",
+  "profilePicture": "aashish.jpg",
+  "bio": "prep for hackathon",
+  "interests": [
+    "Programming",
+    "System Analysis"
+  ],
+  "college": "apex",
+  "major": "BCIS",
+  "graduationYear": 2026,
+  "role": "Student",
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "instagram": "https://www.instagram.com/johndoe",
+    "linkedin": "https://www.linkedin.com/in/johndoe"
+  },
+  "createdAt": {
+    "$date": "2024-01-18T08:21:56.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T08:21:56.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8dff71c4a2ac38b09f753"
+  },
+  "firstName": "Prayag",
+  "lastName": "Ghimire",
+  "email": "prayagghimire@gmail.com",
+  "password": "test@12345",
+  "passwordConfirm": "test@12345",
+  "profilePicture": "aashish.jpg",
+  "bio": "prep for hackathon",
+  "interests": [
+    "Programming",
+    "System Analysis"
+  ],
+  "college": "apex",
+  "major": "BCIS",
+  "graduationYear": 2026,
+  "role": "Student",
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "instagram": "https://www.instagram.com/johndoe",
+    "linkedin": "https://www.linkedin.com/in/johndoe"
+  },
+  "createdAt": {
+    "$date": "2024-01-18T08:23:19.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T08:23:19.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8e0abda7a888fbb98d010"
+  },
+  "firstName": "Rushma",
+  "lastName": "Singh",
+  "email": "rushmasingh@gmail.com",
+  "password": "test@12345",
+  "passwordConfirm": "test@12345",
+  "profilePicture": "aashish.jpg",
+  "bio": "prep for hackathon",
+  "interests": [
+    "Programming",
+    "System Analysis"
+  ],
+  "college": "apex",
+  "major": "BCIS",
+  "graduationYear": 2026,
+  "role": "Student",
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "instagram": "https://www.instagram.com/johndoe",
+    "linkedin": "https://www.linkedin.com/in/johndoe"
+  },
+  "createdAt": {
+    "$date": "2024-01-18T08:26:19.571Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T08:26:19.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae6211d6502a9a6dcb6726"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@example.com",
+  "password": "$2a$14$38oWlMq4OmEeU/rjbKdu0O7KtU0SBy1RVU5RoZYCnA88OpSm5eFv2",
+  "profilePicture": "profile.jpg",
+  "bio": "I am a passionate individual.",
+  "interests": [
+    "Programming",
+    "Reading",
+    "Traveling"
+  ],
+  "college": "Example University",
+  "major": "Computer Science",
+  "graduationYear": 2024,
+  "role": "Student",
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "instagram": "https://www.instagram.com/johndoe/",
+    "linkedin": "https://www.linkedin.com/in/johndoe/"
+  },
+  "createdAt": {
+    "$date": "2024-01-22T12:39:45.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T12:39:45.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae6308d6502a9a6dcb672e"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "aashish@gmail.com",
+  "password": "$2a$14$bObrkAxwGLKLe0qEmApJae3HpMUM7XT2cHENqZA9ObjqOMA.8plp6",
+  "profilePicture": "profile.jpg",
+  "bio": "I am a passionate individual.",
+  "interests": [
+    "Programming",
+    "Reading",
+    "Traveling"
+  ],
+  "college": "Example University",
+  "major": "Computer Science",
+  "graduationYear": 2024,
+  "role": "admin",
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "instagram": "https://www.instagram.com/johndoe/",
+    "linkedin": "https://www.linkedin.com/in/johndoe/"
+  },
+  "createdAt": {
+    "$date": "2024-01-22T12:43:52.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T12:43:52.075Z"
+  },
+  "__v": 0
+}]
